@@ -1,2 +1,3 @@
-# text-graphics
-Text to pixels
+
+Text representation of pixel images.
+
